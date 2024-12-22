@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": [
+      "Composer\\Config::disableProcessTimeout",
+      "php -S localhost:3000"
+    ]
+  }
+}
